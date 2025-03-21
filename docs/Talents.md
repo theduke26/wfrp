@@ -1,4 +1,29 @@
 
+**Random Talents**
+
+1. Acute Sense
+2. Ambidextrous
+3. Animal Affinity
+4. Artistic
+5. Attractive
+6. Craftsman
+7. Drive
+8. Flee!
+9. Linguistics
+10. Mimic
+11. Fast Hand
+12. Orientation
+13. Perfect Pitch
+14. Pure Soul
+15. Read / Write
+16. Ride
+17.  Sixth Sense
+18. Super Numerate
+19. Sprinter
+20. Strong Swimmer
+
+****
+
 **Acute Sense**: One of your five senses is highly developed allowing you to spot what others miss. You may detect imperceptible details as dictated by the GM. 
 
 **Argumentative:** You are used to arguing your points and winning,
