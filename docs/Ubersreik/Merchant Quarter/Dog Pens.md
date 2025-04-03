@@ -1,0 +1,2 @@
+The Dog Pens, a wide square near the centre of the Merchant Quarter, used to house kennels for dog fighting. The kennels have long since moved beyond the walls, but the name persists, kept alive by the sizeable statue of a Saint Saal, a local dog breed, in the centre of the square. The Pens now hosts a number of middleclass eateries and taverns, including [[Frau Dehne]]’s Tearoom and [[Sascha Sauer]]’s Slophouse.
+

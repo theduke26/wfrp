@@ -1,0 +1,3 @@
+The Wings of the Pegasus is the finest eatery in Ubersreik, and, so its owners claim, all of Reikland. It sits near the top of Osterstrasse, with a commanding view of the town spread below it. Customers willing to pay their exorbitant rates are treated to food that is both exotic and subtly cooked. Indeed, while pegasus wing itself is not on the menu, they often serve selections from rare and exotic animals and monsters. There is a small private dining room and balcony on the first floor.
+
+[[Johann Zustrass]] is the head chef.

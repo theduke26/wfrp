@@ -1,0 +1,7 @@
+House Karstadt, the richest merchant family of Ubersreik, owns this bustling, and continually expanding, estate. The fortified grounds are the third highest on the Hill, though the primary manor it houses is relatively modest, for all it is significantly larger than most Reiklanders could ever dream of owning.
+
+The main building has two floors containing a score or so rooms, the largest of which is a sizeable hall, extended just twelve years ago to accommodate larger functions as the family line swelled. Beside the manor is a stables and coach house with space for 24 horses and four coaches. Other buildings are spotted across the grounds, which also contain several copses of trees, ornamental ponds, and an impressive maze to amuse visiting guests.
+
+House Karstadt is known for trading in ores, metal, and luxury goods, running mines, and, more recently, moneylending. It maintains a bank in Ubersreik’s [[Merchant Quarter]], and owns a number of well-guarded warehouses on the north bank of the Teufel. The Karstadts also have offices in Altdorf and Nuln, all managed by prominent family members, and finance several merchant trains crossing the Grey Lady Pass to Bretonnia and the Dwarf Holds.
+
+Owned by [[Hellin Karstadt-Stampf]]

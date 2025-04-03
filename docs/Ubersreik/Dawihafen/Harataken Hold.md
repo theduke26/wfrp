@@ -1,0 +1,4 @@
+This suite of rooms within a large, squat block is the home of the Harataki clan of Dwarfs. A once noble line, they lost control of Karak Branar, their ancestral Hold, some 400 years before Sigmar’s birth. Since then the clan have frittered their fortune away on a series of fruitless attempts to regain their land. Following [[Ubersreik]]’s destruction, artisans from the clan assisted in the town’s reconstruction, also building for themselves the large block they now inhabit. Over the years they have sold off rooms and sections of the building, funding ill-fated expeditions, leaving them with only a handful of rooms
+to their name.
+
+Leader [[Queen Vilda]]

@@ -1,0 +1,3 @@
+All tax collected in [[Ubersreik]] comes through Customs House, a large, sturdy building with a commanding view over the wharves and the river-traffic. All boats unloading in the town pay a tax of one silver coin plus an additional charge depending upon the cargo. Vessels potentially have docking fees to pay as well to the owners of the wharf in question, and fees to pay to the Dockers’ Guild to load and unload any vessel. Wagons of trading goods pay their taxes at the town gates. 
+
+Tax Collecter [[Ernst Geldfinger]]

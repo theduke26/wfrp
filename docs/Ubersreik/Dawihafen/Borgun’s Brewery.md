@@ -1,0 +1,3 @@
+Butted up against the [[Axe and Hammer]] lies Borgun’s Brewery, [[Ubersreik]]’s only Dwarf brewer and purveyor of strong, dark ales. The brewery consists of a number of discrete stone buildings, each housing a distinct stage of the brewing process. There is a mill, a mash-house, a boiler room, and a number of storage sheds — which [[Borgun Foambeard]] calls halls — where barrels of ale are stored and matured. A covered passageway leads directly to The [[Axe and Hammer]], [[Borgun Foambeard]]'s biggest customer, while wagons containing ale for trade in other inns and taverns, or even to neighbouring Dwarf Holds, pass out regularly.
+
+Brewer [[Borgun Foambeard]]

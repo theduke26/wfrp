@@ -1,0 +1,5 @@
+Von Bruners have lived on the site of Bruner Palace for centuries, though the actual building has been reconstructed many times. The family is rich from its mines in the Hagercrybs, and it spends lavishly on the palace. It is the largest building on the Hill, with an impressive 239 rooms. It is in such a prominent position it can be seen from almost every part of the town. A large stables and coach house are built to the east end of the walled grounds, and a small jetty juts out into the Teufel at the foot of the Hill, where painted boathouses hold several pleasure barges.
+
+The palace is regularly home to all manner of visitors, including nobles, entertainers, artists, and free thinkers. Rumours of decadent pursuits persist, despite generous donations to the Cult of Sigmar.
+
+Primary resident: [[Heinrich von Bruner]]

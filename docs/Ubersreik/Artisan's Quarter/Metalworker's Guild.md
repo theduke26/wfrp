@@ -1,0 +1,3 @@
+The Metalworkers’ Guildhouse is a squat, unassuming, sootstained building just off the BÖgenhafen road. It is surrounded by forges, smithies, and workshops that ring with the sound of hammers on steel from dawn to dusk. The interior of the guildhouse is dark, and low-ceilinged, an attempt to appeal to the city’s Dwarf populace, albeit one that is as transparent as it is unsuccessful. The Dwarf craftsmen are polite to a fault, but do not view their inferior ‘shortbeard’ counterparts as rivals.
+
+Guildmaster [[Petronilla Merkle]]

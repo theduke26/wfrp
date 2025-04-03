@@ -1,0 +1,3 @@
+Built in 1589 IC by the Knights Panther — a wealthy order of secular knights — this chapterhouse is a small, opulent building on the Hill. Stairs lead to an upper floor of grand chambers, including a smoky club house and library. Beneath lies an ornate stable, training square, and servant halls. For all its splendour, the building is crooked, sagging, and alarmingly creaky. No Knights Panther permanently lodge there, and it’s rare for more than five to be in residence.
+
+Chamberlain [[Adella Markel]] leads the Odenhaus’s 6 staff and 13 guards. All wear blue livery with a snarling panther on their chest.

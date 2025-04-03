@@ -1,0 +1,5 @@
+This sizeable barracks once billeted Ubersreik 3rd Regiment of Foot, the Reikland 33rd, nicknamed: ‘the Fighting Stags’. The regiment retreated as the State Army of Altdorf  approached, so the building now lies empty. A large wall rings the muster ground where the soldiers once drilled. Against the wall are towers, workshops, barracks, kitchens, refectories, and chapels, most of which are locked and quiet.
+
+Aware the barracks may become a rallying point for Jungfreud sympathies, General von Dabernick ordered the walls patrolled with Altdorf soldiers. At any one time, two squads of eight halberdiers, each led by a sergeant, march around the periphery, thoroughly bored, dreaming of a better detail. When off-duty or resting, the soldiers gather in the north tower to eat, drink, play cards or dice, and chew wierdroot.
+
+Patrol of the barracks is managed be Sergeant [[Rikard Jaekel]]

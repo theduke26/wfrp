@@ -1,0 +1,3 @@
+The Watch are responsible for keeping the peace and enforcing the law; however, the bulk of the old Watch members were recently dismissed due to suspicion they were loyal to the von Jungfreuds. So, much of the current Watch is made up of Altdorf soldiers who’ve been pressed into service, and who resent every minute of it. They have little interest in justice and swiftly resort to busting heads to keep order.
+
+Commanded by [[Andrea Pfeffer]]

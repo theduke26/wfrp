@@ -1,0 +1,3 @@
+Luigi & Salvatore is where the wealthy and indulgent of Ubersreik shop. It is a dark granite, three-storey building faced with large windows, and is one of the larger L&S outlets in the Empire. Within, shoppers encounter a labyrinthine tangle of columns and shelves with dozens of attendants ready to help customers, or eject time-wasters and riff-raff. All manner of high quality, high priced goods can be purchased here: clothing, arms and armour, supplies, writing materials, and so much more.
+
+[[Adriano Corolla]] manages the opulent shop.

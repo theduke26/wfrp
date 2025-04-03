@@ -1,0 +1,3 @@
+Originally, this building was a merchant’s storehouse and shop, but it was converted a decade ago into a proscenium arch theatre, which plays host to actors, musicians, and entertainers of all sorts. It is large, stone building, with an expansive, vaulted, wooden ceiling. A large chalkboard hangs beneath the painted sign, on which the owner writes the name of the next performance, as well as a number of images to keep the illiterate masses informed. Inside, there are fifty seats in the stalls, another fifty in the upper circle, and two boxes, which are reserved for the town’s nobility or its wealthiest citizens.
+
+Playwright [[Benedict Gurkenfeld]]

@@ -1,0 +1,3 @@
+Every Marktag (the weekly market day), farmers bring their produce from the surrounding villages to trade in the busy market squares, while pedlars and merchants display cloth and other produce. Most retailers within Ubersreik also pitch stalls on Marktag, charging a little extra, in the knowledge that most customers favour convenience over trekking to the other side of town.
+
+At the centre of the Market Square, the largest square in the quarter, an imposing statue of Magnus the Pious stands, commemorating his pivotal role in rebuilding Ubersreik after the Great War Against Chaos.

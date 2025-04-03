@@ -1,0 +1,6 @@
+![[Bridge House Inn Sign.png]]
+Bridge House is perfectly situated in the centre of [[Ubersreik]] on the main thoroughfares near [[Ubersreik Bridge]], offering spectacular views of the Dwarf-made marvel. The inn has large stables and a sizeable coach house, and also serves as [[Ubersreik]]’s bustling post office.
+
+Although locals rarely eat or drink here, balking at the prices, the fare is good, the portions generous, and the selection of beverages broad. Because of this, it is a common haunt for wealthier merchants, travellers, and those with coin to burn. The lower floor has a broad taproom, which also serves as a common room and dining room, and has several curtained booths for more clandestine meetings. There is also a spacious kitchen, a sizeable larder, two offices, two private dining rooms, and quarters for the staff. The two upper floors are set aside for the inn’s private rooms, and the rooms above the coach house and stables are where visiting coachmen take their rest. The largest private room is on the top floor and commands an impressive view of [[Ubersreik Bridge]].
+
+Inn Keeper [[Gunther Abend]]

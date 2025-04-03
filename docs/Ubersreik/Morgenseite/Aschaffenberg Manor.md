@@ -1,0 +1,3 @@
+The Aschaffenberg residence is the second largest estate on the Hill. The striking two-storey manor has a coach-house and stables built into the north side, and a selection of out-buildings to the south, all of which are built in a classical style. It is officially the home of [[Duke Brynich]] of House Aschaffenberg and his wife, [[Duchess Eleanor]].
+
+In addition, ten of Duke Aschaffenberg’s personal guard are garrisoned to watch over the property, though most of their time is spent lounging with beer.

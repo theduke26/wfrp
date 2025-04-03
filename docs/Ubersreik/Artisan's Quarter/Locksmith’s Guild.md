@@ -1,0 +1,3 @@
+A narrow building with steel-barred windows, this guildhouse is maintained by Ubersreik’s only locksmith, [[Ludwig Schlüsselfert]]. The locksmith only works for a few hours a day, and only four days a week, meaning it can be a challenge to find him. The ground floor is his workshop, with tools neatly hanging around the walls. Upstairs are his personal quarters, a small parlour and surprisingly sumptuous bedchambers.
+
+Guildmaster [[Ludwig Schlüsselfert]]

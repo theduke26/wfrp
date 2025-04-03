@@ -1,0 +1,3 @@
+This small building, not far from the Town Hall, is not more than four-foot across at its base. It has a heavy, oak door daubed with a crude rendition of the heraldry of [[Ubersreik]]. Inside, there is a waist-height metal pole against one wall with manacles attached. The Watch once used the Watchstation to hold drunks or to imprison criminals during night-time patrols. However, the keys to Marktplatz Watchstation, and the other 11 Watchstations spread through [[Ubersreik]], went missing during the Altdorf invasion.
+
+Watch Captain [[Andrea Pfeffer]]

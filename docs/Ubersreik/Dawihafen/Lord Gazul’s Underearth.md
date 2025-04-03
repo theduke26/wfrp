@@ -1,0 +1,3 @@
+Deep beneath the [[Khazalgirt]], at the end of a tunnel many hundreds of yards long, lies Lord Gazul’s Underearth. Entry is through a guarded fifty-foot high cave mouth carved with a yawning Dwarf face. Within is an enormous, earth-floored cavern with thousands of carved stone sarcophagi, each grouped by clan into octagonal patterns around the oldest graves. In the centre of the cavern stands a twenty-foot statue of Gazul, great guardian of the dead, and the Dwarf Ancestor God who established ancestor veneration after the loss of his mother. Gazul looks troubled, and leans heavily on a great runesword.
+
+Living Ancestor [[Nagrimi the Quiet]]

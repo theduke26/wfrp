@@ -1,0 +1,3 @@
+Of all [[Ubersreik]]’s slums, Wandiene rookery is the largest and most notorious. It lies in the north-west of the [[Artisan's Quarter]], packed tight to the high town-walls and the fortifications of the Precinct (see page 47). It is uncensused and massively overcrowded, and is known for its many bawds, thieves, and ne’erdowells. Its tall, unstable houses have no access to [[Ubersreik]]’s extensive sewers. The buildings lean precariously against each other, and any available space between is filled with shacks and makeshift hovels. The few paths and alleyways are narrow, gloomy, filthy, and untrod by the Watch.
+
+Resistance Fighter [[Guido Falck]]

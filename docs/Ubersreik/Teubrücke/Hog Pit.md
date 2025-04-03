@@ -1,0 +1,3 @@
+The Schwarzehalle slum’s Hog Pit is a sprawling series of open pig pens. The pigs dine on the town’s scraps and filth, which are sold to swineherds by enterprising gong farmers (excrement collectors). Citizens wishing to cross the Hog Pit use a series of elevated wooden platforms. These boards are treacherous, and more than one burgher has slipped, falling into the mud, waste, and pigs below.
+
+Farmer [[Gart Fünke]]

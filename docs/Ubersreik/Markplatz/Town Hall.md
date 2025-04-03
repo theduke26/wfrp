@@ -1,0 +1,3 @@
+[[Ubersreik]]’s Town Hall is an imposing stone building, two storeys high with four towers, that looms over the northern side of Marktplatz. In addition to banks of offices belonging to the Burgomeister [[Ernst Maler]] and his staff, it contains the stately Nobles’ Court, a grand hall in which the Jungfreud rulers historically made rulings that affected the whole duchy. The towers were reserved for the Jungfreuds and visiting nobles to use as a residence when attending court, but now lie unused. Since the removal of the Jungfreuds, the status and influence of the Town Council, which meets weekly in the Town Hall, has risen dramatically, although the formal bounds of its power is very much in flux.
+
+Burgomeister [[Ernst Maler]]

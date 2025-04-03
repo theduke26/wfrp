@@ -1,0 +1,3 @@
+Given that much of [[Ubersreik]] is built of stone, the Carpenters’ Guild is keen to promote their skills, demonstrating how beautiful intricate woodwork can be. The building’s facade is cunningly wrought with complex wooden leaf scrollwork, framed by two pillars constructed from the trunks of great oak trees. The building houses guildmembers’ demonstrations of their skill arrayed in the Masters’ Hall, a long wood-panelled gallery used for ceremonial events and business meetings. Guildmembers’ workshops are mostly located nearby, though several are located in the Docks, as they work closely with the boatbuilders and coopers.
+
+Guildmaster [[Ernst Zimmerman]]

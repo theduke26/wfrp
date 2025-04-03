@@ -1,0 +1,3 @@
+Satrioli’s Sausage Shop is a thriving business that offers a wide selection of sausages, cured meats, imported cheeses, and other delicacies to the workers of the Artisan’s District. It occupies the ground floor of a stone building; the wooden storey above is rented out by the large family of Halflings who help the Satriolis cope with their rapidly expanding customer-base. Beneath the shop, there is a sizeable cellar used as a storeroom; it also has a shrine to Myrmidia, a goddess worshipped widely in the south of the Old World. There are a number of tables and benches outside the shop, but many customers take their food away to eat at home or in their place of work.
+
+Owner [[Gino Satrioli]]

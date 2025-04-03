@@ -1,0 +1,3 @@
+To the northwest of Ubersreik lies the town’s graveyard, Morr’s Field. It is surrounded by tall and crumbling stone walls, religious buildings being exempt from the bylaws. Within lie the graves and ravenstones of Ubersreik. Mass graves for paupers, single plots for the middle-classes, and great mausoleums for the wealthiest families in town. Additionally, there is a shrine to Morr, which is attached to a larger hall, used by the Mourners’ Society, an informal group of locals who offer solace to the grieving.
+
+[[Schadrach Bürke]] is the ranking priest of Morr, the God of Death.
