@@ -1529,7 +1529,7 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
       ];
 
         var map = L.map('ubersreik-map', {
-            crs: L.CRS.Simple,  /
+            crs: L.CRS.Simple,
             minZoom: -1.5,  
             maxZoom: 18,  
             zoomDelta: 0.5,
