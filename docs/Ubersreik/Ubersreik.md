@@ -1539,7 +1539,7 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
 
         
         
-        var imageUrl = "/wfrp/Ubersreik/Ubersreik.png";  
+        var imageUrl = "Images/Ubersreik.png";  
         var imageBounds = [[0, 0], [2015.24, 2623.8]]; 
         
         L.imageOverlay(imageUrl, imageBounds).addTo(map);
