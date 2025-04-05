@@ -17,6 +17,13 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
   src="https://unpkg.com/leaflet.fullscreen@1.6.0/Control.FullScreen.js"
 ></script>
 
+<style>
+  .leaflet-popup {
+  width: 90vw;        /* 90% of the viewport width */
+  max-width: 500px;   /* But don't go too wide on large screens */
+  word-wrap: break-word;
+}
+</style>
 
 <script>
     
@@ -1571,12 +1578,12 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
 
             if (match) {
               const popupContent = `
-              <div style="width: 90vw; max-width: 500px; word-wrap: break-word;">
                 <b><a href="/wfrp/${match.location}">${m.link}</a></b><br>
                 <p>${match.text}</p>
-              </div>
               `;
-              L.marker(m.loc).addTo(map).bindPopup(popupContent)
+              L.marker(m.loc).addTo(map).bindPopup(popupContent, {
+                maxWidth: 500
+              })
               .bindTooltip(m.link, {
                 permanent: false,  
                 direction: 'top',  
