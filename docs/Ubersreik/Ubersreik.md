@@ -1571,12 +1571,12 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
 
             if (match) {
               const popupContent = `
+              <div style="width: 90vw; max-width: 500px; word-wrap: break-word;">
                 <b><a href="/wfrp/${match.location}">${m.link}</a></b><br>
                 <p>${match.text}</p>
+              </div>
               `;
-              L.marker(m.loc).addTo(map).bindPopup(popupContent, {
-                maxWidth: 500
-              })
+              L.marker(m.loc).addTo(map).bindPopup(popupContent)
               .bindTooltip(m.link, {
                 permanent: false,  
                 direction: 'top',  
