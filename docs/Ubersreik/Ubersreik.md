@@ -1551,7 +1551,7 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
         map.fitBounds(imageBounds);
 
         
-        fetch('/search/search_index.json')
+        fetch('/wfrp/search/search_index.json')
         .then(res => res.json())
         .then(index => {
           markers.forEach(m => {
