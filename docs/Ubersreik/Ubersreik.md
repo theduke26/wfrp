@@ -1574,7 +1574,15 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
                 <b><a href="/wfrp/${match.location}">${m.link}</a></b><br>
                 <p>${match.text}</p>
               `;
-              L.marker(m.loc).addTo(map).bindPopup(popupContent);
+              L.marker(m.loc).addTo(map).bindPopup(popupContent, {
+                maxWidth: 500, 
+                minWidth: 300
+              })
+              .bindTooltip(m.link, {
+                permanent: false,  
+                direction: 'top',  
+                offset: [0, -10]   
+              });
             }
           });
         });
