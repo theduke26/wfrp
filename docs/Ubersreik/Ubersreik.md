@@ -6,8 +6,17 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
 <div id="ubersreik-map" style="width: 95%; height: 900px;"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet.fullscreen@1.6.0/Control.FullScreen.css"
+/>
+
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="https://unpkg.com/marked/marked.min.js"></script>
+<script
+  src="https://unpkg.com/leaflet.fullscreen@1.6.0/Control.FullScreen.js"
+></script>
+
 
 <script>
     
@@ -1534,7 +1543,8 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
             minZoom: -1.5,  
             maxZoom: 18,  
             zoomDelta: 0.5,
-            zoomSnap: 0.5
+            zoomSnap: 0.5,
+            fullscreenControl: true
         });
 
         
@@ -1561,7 +1571,7 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
 
             if (match) {
               const popupContent = `
-                <b><a href="/${match.location}">${m.link}</a></b><br>
+                <b><a href="/wfrp/${match.location}">${m.link}</a></b><br>
                 <p>${match.text}</p>
               `;
               L.marker(m.loc).addTo(map).bindPopup(popupContent);
