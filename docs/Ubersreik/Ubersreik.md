@@ -1556,15 +1556,15 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
         .then(index => {
           markers.forEach(m => {
             const match = index.docs.find(doc =>
-              doc.title.trim().toLowerCase() === m.title.trim().toLowerCase()
+              doc.title.trim().toLowerCase() === m.link.trim().toLowerCase()
             );
 
             if (match) {
               const popupContent = `
-                <b><a href="/${match.location}">${m.title}</a></b><br>
+                <b><a href="/${match.location}">${m.link}</a></b><br>
                 <p>${match.text.slice(0, 120)}...</p>
               `;
-              L.marker(m.coords).addTo(map).bindPopup(popupContent);
+              L.marker(m.percent).addTo(map).bindPopup(popupContent);
             }
           });
         });
