@@ -1551,24 +1551,22 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
         map.fitBounds(imageBounds);
 
         
-        function loadMarkdownContent(marker, fileName) {
-            fetch(fileName)
-                .then(response => response.text())
-                .then(markdownContent => {
-                    marker.getPopup().setContent("<b>" + marker.options.link + "</b><br>" + marked(markdownContent));
-                })
-                .catch(error => console.error('Error loading Markdown file:', error));
-        }
+        fetch('/search/search_index.json')
+        .then(res => res.json())
+        .then(index => {
+          markers.forEach(m => {
+            const match = index.docs.find(doc =>
+              doc.title.trim().toLowerCase() === m.title.trim().toLowerCase()
+            );
 
-        markers.forEach(function(markerData) {
-            var marker = L.marker([markerData.loc[0], markerData.loc[1]]).addTo(map)
-                .bindPopup("<b>" + markerData.link + "</b>")
-                .bindTooltip(markerData.tooltip); 
-
-            marker.on('popupopen', function (e) {
-                var fileName = markerData.link.replace(/ /g, '_') + '.md'; 
-                loadMarkdownContent(marker, fileName);
-            });
+            if (match) {
+              const popupContent = `
+                <b><a href="/${match.location}">${m.title}</a></b><br>
+                <p>${match.text.slice(0, 120)}...</p>
+              `;
+              L.marker(m.coords).addTo(map).bindPopup(popupContent);
+            }
+          });
         });
 
         L.control.scale({ metric: true, imperial: true }).addTo(map);
