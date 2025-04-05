@@ -832,7 +832,7 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
             879,
             945.0000918639189
           ],
-          "link": "Boatman's Guild",
+          "link": "Boatmen's Guild",
           "layer": "%5B%5BUbersreik.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -1575,7 +1575,7 @@ Ubersreik ’s streets run red with the blood of Reikland. Corpses of good, stou
                 <p>${match.text}</p>
               `;
               L.marker(m.loc).addTo(map).bindPopup(popupContent, {
-                maxWidth: 500, 
+                maxWidth: 400, 
                 minWidth: 300
               })
               .bindTooltip(m.link, {
