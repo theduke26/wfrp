@@ -1,0 +1,2 @@
+![[Lohner.png]]
+Franz Lohner owns and runs the [[Red Moon Inn]]. A no-nonsense Mercenary, Lohner is a slightly overweight, dishevelled man in his 40s. He employs Ilse Frecht, a matronly woman in her 50s, to clean rooms and wait tables. Gunter Bisset works in the kitchens, cooking dinner, and two younger lads to help serve during busier times. All Bisset ever produces is potato and fish stew. A wholesome meal, but one that doesn’t make the best breakfast in the morning when served as cold leftovers.

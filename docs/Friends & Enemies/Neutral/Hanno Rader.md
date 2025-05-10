@@ -1,0 +1,2 @@
+![[Hanno.png]]
+The landlord of the [[Exploding Pig]], named the inn after an accident in [[Dawihafen]] involving an abattoir and an armoury. He claims the town smelled like bacon for days, which he firmly believes was a blessed event granted by the gods, for Rader loves bacon. He is as gossipy as a Nordlander fishwife and rarely gives others a moment to talk. 

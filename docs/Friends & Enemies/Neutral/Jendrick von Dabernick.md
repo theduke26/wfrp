@@ -1,0 +1,2 @@
+![[Debernick.png]]
+General Jendrick von Dabernick is in direct command of the military forces. The general is a stiff-necked man of average height in his mid 30s. He wears his heavily coiffured hair swept up in blond twin-tailed comet, a gesture as distinctive as it is devout. He constantly shouts orders from beneath his enormous moustache, and is never seen without his privately tailored red and blue uniform, complete with a gilded breastplate, medals, and gold-trimmed, green-velvet cloak.

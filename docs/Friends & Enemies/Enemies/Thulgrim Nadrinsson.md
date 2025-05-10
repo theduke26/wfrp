@@ -1,0 +1,2 @@
+![[Thulgrim.png]]
+A disgruntled Dwarf with an axe to grind with the Stieglers and Reuters. Posing as a foreman he intended to sabotage the Stiegler-Reuter operation from within. He never intended for things to end up with their death's and the shame brought him to take the slayer oath. He is disgruntled at the party for giving him a small portion of the the pay chest and may blame them for how things turned out with Stiegler and Reuter.
