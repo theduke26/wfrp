@@ -1,0 +1,2 @@
+![[Geldfinger.png]]
+Ernst Geldfinger runs the [[Customs House]] operation. Geldfinger is a thuggish man in his 40s who tightly controls his clerks. On an average day, one clerk is posted to each of the three gates into the city, a clerk can be found on both the north and south bank to collect from river barges, and the last works the customs house itself. He has a reputation for meticulous detail.

@@ -1,0 +1,3 @@
+![[Maller.png]]
+
+Ernst Maler is the current Burgomeister of Ubersreik and leader of the Town Council. His role was, until the arrival of Altdorf ’s troops, chiefly clerical. Given the potential for the town to become a Freiburg, things have changed — he is courted by Guildmasters, keen to exert their influence on the town’s future, and resented by the nobility and locals loyal to the Jungfreuds, who suspect skullduggery.
