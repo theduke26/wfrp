@@ -1,0 +1,2 @@
+![[Boniel.png]]
+Boniel is quite clearly [[Gutele von Bruner]]’s brother. Despite being different sexes, and his shorter hair, they look remarkably alike, and it would be easy to guess that they are twins.

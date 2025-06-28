@@ -1,0 +1,2 @@
+![[Hellin.png]]
+The Matriarch of the Karsdat family. Hellin’s wealth is displayed in her clothes and jewellery. The intricate floral designs on her black dress are decorated with gold threads, and her gold necklace is centered by a black opal. 

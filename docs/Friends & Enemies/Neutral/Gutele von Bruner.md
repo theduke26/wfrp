@@ -1,0 +1,2 @@
+![[Gutele.png]]
+Gutele, a young woman in her 20s, is the very picture of a striking noblewoman. She dresses in the finest delicate fashions of Altdorf and Parravon, and wears a large diamond ring on one finger.

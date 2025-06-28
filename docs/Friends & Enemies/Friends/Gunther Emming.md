@@ -1,2 +1,0 @@
-![[Emming.png]]
-Father Gunther Emming is the High Priest of Sigmar. A stern looking man in his 50s with thinning silver hair, Emming is famed for the severity of his sermons, and the sobriety of his demeanour.

@@ -1,0 +1,2 @@
+![[Moritz.png]]
+An older, greyhaired chap who has served the von Bruners for at least 50 years. He has that world-weary look of having seen everything but not liking much of it. It has taken him years to master saying ‘Sir’ and ‘Madame’ without any hint of respect whatsoever.

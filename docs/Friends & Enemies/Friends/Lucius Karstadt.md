@@ -1,0 +1,2 @@
+![[Lucius.png]]
+At 18 years old, Lucius is the youngest of [[Hellin Karstadt]]’s children. He tends to let his dark hair droop over his grey eyes, leaving his large, bulbous nose sticking out prominently. When his siblings left for Altdorf to see their father, Lucius begged off, complaining of a cold. He now regrets staying behind.
